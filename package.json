@@ -2,7 +2,7 @@
   "name": "alens-application-3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Northeast-webdev.github.io/rstest",
+  "homepage": "https://northeast-webdev.github.io/rstest",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
